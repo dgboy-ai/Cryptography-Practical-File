@@ -5,5 +5,4 @@ Branch: Btech CSE AIML
 Section: D
 Year: 3rd 
 Semester: 5th
-
 Day of Completion and Commmit: 21/11/2026
