@@ -40,13 +40,3 @@ Capture and save into each experiment's `Screenshots/` folder.
 
 ## Exp12 Protocols (Wireshark)
 - 01_http.png, 02_https_tls.png, 03_ssh.png
-
-## Exp13 John the Ripper (Kali)
-- 01_john_run.png, 02_show.png
-
-## Exp14 SSH (Kali)
-- 01_keygen.png, 02_copy_id.png, 03_login.png
-
-- 01_server_start.png, 02_client_connect.png, 03_ping_tunnel.png
-
-- 01_router_config.png, 02_client_connect.png, 03_ping.png, 04_wrong_pass.png
